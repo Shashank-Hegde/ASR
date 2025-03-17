@@ -4,6 +4,7 @@ torchaudio
 soundfile
 streamlit-webrtc
 numpy
+librosa
 streamlit
 torchvision 
 sounddevice
