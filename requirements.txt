@@ -2,5 +2,8 @@ transformers
 torch
 torchaudio
 soundfile
+streamlit-webrtc
 numpy
 streamlit
+torchvision 
+sounddevice
